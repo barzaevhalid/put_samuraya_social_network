@@ -1,0 +1,9 @@
+.avatar {
+    width: 200px;
+}
+.active {
+    color: red;
+}
+.page {
+    cursor: pointer;
+}
